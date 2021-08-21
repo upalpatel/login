@@ -2,7 +2,7 @@
 
 This project is built using ReactJS and CSS Modules.
 
-This is a simple application that let's a user login in. It is built as a learning point for using useEffect, useReducer and React Context (Context API).
+This is a simple application that let's a user login in. It is built as a learning point for using useEffect, useReducer, React Context (Context API), and useRef.
 
 ## Available Scripts
 
